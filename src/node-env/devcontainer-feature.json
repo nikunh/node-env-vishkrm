@@ -1,0 +1,12 @@
+{
+  "id": "node-env",
+  "version": "0.0.1",
+  "name": "Node.js Environment Integration",
+  "description": "Self-healing environment fragment for official DevContainer Node feature integration",
+  "documentationURL": "https://github.com/nikunh/node-env-vishkrm",
+  "licenseURL": "https://github.com/nikunh/node-env-vishkrm/blob/main/LICENSE",
+  "options": {},
+  "installsAfter": [
+    "ghcr.io/devcontainers/features/node"
+  ]
+}
