@@ -96,4 +96,4 @@ fi'
 # Call the fragment creation function
 create_environment_fragment
 
-echo "Node.js environment fragment installation completed."
+echo "Node.js environment fragment installation completed."# Auto-trigger build Tue Sep 23 20:03:18 BST 2025
