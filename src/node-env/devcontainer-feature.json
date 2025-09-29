@@ -1,6 +1,6 @@
 {
   "id": "node-env",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "Node.js Environment Integration",
   "description": "Self-healing environment fragment for official DevContainer Node feature integration",
   "documentationURL": "https://github.com/nikunh/node-env-vishkrm",
